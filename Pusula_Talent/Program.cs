@@ -10,6 +10,9 @@ namespace Pusula_Talent
     {
         static void Main(string[] args)
         {
+            string metin = string.Format("{1} {0}", "Hello", "World");
+            Console.Write("metin");
+            Console.Read();
         }
     }
 }
